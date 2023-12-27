@@ -29,7 +29,7 @@ async def help(event):
             Button.inline("• ᴇxᴛʀᴀ •", data="extra"),
            ],
            [    
-            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/@TlGER_HERE"),
+            Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/TlGER_HERE"),
             Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/OwnTerritory")
            ],
            ],
